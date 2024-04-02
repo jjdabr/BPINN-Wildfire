@@ -12,9 +12,8 @@ import numpy as np
 import torch
 import torch.nn as nn
 
-__author__      = "Joel Dabrowski"
-__copyright__   = "Copyright Info"
-__license__     = "License Name and Info"
+__author__      = "Joel Janek Dabrowski"
+__license__     = "MIT license"
 __version__     = "0.0.0"
 
 def level_set_function(x, y, x0=0.0, y0=0.0, offset=0.0):

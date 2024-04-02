@@ -8,10 +8,10 @@ Code to reproduce figure 6 in [1]
     https://www.sciencedirect.com/science/article/pii/S2211675323000210
 """
 
-__author__      = "Joel Dabrowski"
-__copyright__   = "Copyright Info"
-__license__     = "License Name and Info"
+__author__      = "Joel Janek Dabrowski"
+__license__     = "MIT license"
 __version__     = "0.0.0"
+
 
 import numpy as np
 import torch

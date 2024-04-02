@@ -11,10 +11,10 @@ Bayesian Multi-Layered Perceptron (MLP)
     https://arxiv.org/abs/1505.05424
 """
 
-__author__      = "Joel Dabrowski"
-__copyright__   = "Copyright Info"
-__license__     = "License Name and Info"
+__author__      = "Joel Janek Dabrowski"
+__license__     = "MIT license"
 __version__     = "0.0.0"
+
 
 import torch
 import torch.nn as nn
