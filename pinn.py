@@ -6,6 +6,11 @@ Bayesian Physics Informed Neural Network (B-PINN)
     Physics Informed Neural Networks for Data Assimilation and Spatio-Temporal 
     Modelling of Wildfires", Spatial Statistics, Volume 55, June 2023, 100746
     https://www.sciencedirect.com/science/article/pii/S2211675323000210
+[2] Liu Yang, Xuhui Meng, George Em Karniadakis, "B-PINNs: Bayesian 
+    Physics-Informed Neural Networks for Forward and Inverse PDE Problems with 
+    Noisy Data", Journal of Computational Physics Volume 425, 15 January 2021, 
+    109913
+    https://www.sciencedirect.com/science/article/pii/S0021999120306872
 """
 
 __author__      = "Joel Janek Dabrowski"
