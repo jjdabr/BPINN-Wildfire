@@ -1,4 +1,4 @@
-<font size=7> Bayesian Physics Informed Neural Networks for Data Assimilation and Spatio-Temporal Modelling of Wildﬁres </font>
+# Bayesian Physics Informed Neural Networks for Data Assimilation and Spatio-Temporal Modelling of Wildﬁres
 
 
 This code implements the Bayesian Physics Informed Neural Network (PINN) for 
@@ -32,7 +32,7 @@ abstract = {We apply the Physics Informed Neural Network (PINN) to the problem o
 ```
 
 
-# Overview
+## Overview
 
 The PINN architecture is illustrated in the following figure
 <!-- ![readme_images/model.png](readme_images/model.png) -->
@@ -69,7 +69,7 @@ samples from the Bayesian PINN.
 
 Please see the paper for further details.
 
-# Code Contents and Running Instructions
+## Code Contents and Running Instructions
 
 The file contents of this code repository are as follows:
 
@@ -93,12 +93,12 @@ parameters are described in the following table:
 | `save_file`         | The path to the file in which the PINN model parameters are stored. |
 
 
-# Installation
+## Installation
 
 This code is run on Python version `3.10.9`. This code and the required Python 
 packages can be installed using the following:
 
 ```bash
-git clone https:...
+git clone https://github.com/jjdabr/BPINN-Wildfire.git
 pip install -r requirements.txt
 ```
